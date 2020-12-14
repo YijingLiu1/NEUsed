@@ -4,15 +4,15 @@
 
 **Website Link: [Click Here!](https://neused.herokuapp.com/)**
 
-## [Design by Team: softaware](https://github.ccs.neu.edu/orgs/2020FACS5500SV/teams/project-neused-team)
+## Design by Team: softaware
 
 Development Process: **Agile Development(Scrum).**
 Committing way: feature branch workflow by committing branches and submit pull requests to have code reviewed and committed to the master branch
 
-- [Siyu Chen](https://github.ccs.neu.edu/siyuchen2020)
-- [Yijing Liu](https://github.ccs.neu.edu/yijingliu)
-- [Jing Shen](https://github.ccs.neu.edu/jshen1110)
-- [Yixuan Yu](https://github.ccs.neu.edu/nancyyu)
+- [Siyu Chen](https://github.com/syche55)
+- [Yijing Liu](https://github.com/YijingLiu1)
+- [Jing Shen](https://github.com/jshen1110)
+- [Yixuan Yu](https://github.com/nancyyu17)
 
 ## Tech Stack & Design
 
